@@ -21,5 +21,8 @@
         "examples",
         "**/.*",
         "*.json"
-    ]
+    ],
+    "dependencies": {
+        "nette.ajax.js" : ">=2.1.0"
+    }
 }
