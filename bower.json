@@ -1,0 +1,25 @@
+{
+    "name": "nette-forms-confirm-dialog",
+    "description": "Client side script for Nette Forms Component Confirm Dialog",
+    "homepage": "http://nette.org",
+    "keywords": [
+        "nette",
+        "validation",
+        "forms"
+    ],
+    "license": [
+        "BSD-3-Clause",
+        "GPL-2.0",
+        "GPL-3.0"
+    ],
+    "authors": [
+        "Jan Červený",
+        "Jakub Janata (https://ifire.cz)"
+    ],
+    "main": "src/netteForms.confirmDialog.js",
+    "ignore": [
+        "examples",
+        "**/.*",
+        "*.json"
+    ]
+}
